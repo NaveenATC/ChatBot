@@ -1,0 +1,90 @@
+﻿/* Styles for the input box*/
+.sc-tdd-tree
+{
+    position: relative;
+    margin-top: 10px;
+    width: 300px;
+    background: white;
+}
+.sc-tdd-tree-wrap
+{
+    clear: both;
+    display: none;
+    border: 1px solid #DBDFE6;
+    border-top: none;
+    width: 298px;
+    position: absolute;
+    background: white;
+    height: auto;
+    max-height: 150px;
+    overflow: auto;
+}
+.sc-tdd-trigger{
+    position: absolute;
+    right: 0;
+    height: 100%;
+    top: 0;
+    border-left: 1px solid #ccc;
+}
+.sc-tdd-trigger a {
+    background: url("https://www.cityofdoral.com/WebResource.axd?d=yLvPNhCRUMymGij2t8sLnXTdikV_-ElvfYvNwzVS3gfYDIViIaSy7lB3r-VHe2yRCxzZRXFCL_ofPFJJTmfZmWxUOxQmzPAmmPWkl511IAMWaJT1F3cX3LGy3-kNk5w3lerAcouZuNGBz5qfo7mgiA2&amp;t=639119018320000000") no-repeat scroll center center transparent;
+    display: block;
+    cursor: pointer;
+    text-indent:-9999px;
+    height: 100%;
+    width: 26px;
+}
+    
+.sc-tdd-text-wrap
+{
+    position: relative;
+    height: auto;
+    padding: 5px;
+    border: 1px solid #DBDFE6;
+    cursor: pointer;
+    box-sizing: border-box;
+}
+
+.sc-tdd-text-wrap.active
+{
+}
+.sc-tdd-text
+{
+    width: 268px;
+}
+    
+.sc-tdd-text span
+{
+    display: block;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    width: 275px;
+}
+    
+.sc-tdd-tree-wrap ul li
+{
+    padding-left: 0;
+}
+
+.sc-tdd-cbl input
+{
+    height: auto;
+    margin-right: 5px;
+    padding: 0;
+}
+
+.sc-tdd-l0{ margin-left: 0;}
+.sc-tdd-l1{ margin-left: 1em;}
+.sc-tdd-l2{ margin-left: 2em;}
+.sc-tdd-l3{ margin-left: 3em;}
+.sc-tdd-l4{ margin-left: 4em;}
+.sc-tdd-l5{ margin-left: 5em;}
+
+.sc-tdd-tree-noscript {
+    border: 1px solid #dadada;
+    height: 150px;
+    overflow: auto;
+    padding: 5px;
+    width: 290px;
+}

@@ -1,0 +1,9 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.cityofdoral.com	TRUE	/	FALSE	1999999999	ASP.NET_SessionId	cyizrgg2zstdjudj43nfxvsg
+media.zoomprospector.com:443	TRUE	/	FALSE	1999999999	AWSALB	nHJrKzdzdQPi11G9Mp9SO623MdC6F3dk6Z7UbCXPnlRokhojSyaq1sXkYdyBqjMbelDEGlI9mToWYYToaHfOKvVJPAgihTHQfQp3kqwtzrDCrw+LOW2xmyKNElM/
+media.zoomprospector.com:443	TRUE	/	FALSE	1999999999	AWSALBCORS	nHJrKzdzdQPi11G9Mp9SO623MdC6F3dk6Z7UbCXPnlRokhojSyaq1sXkYdyBqjMbelDEGlI9mToWYYToaHfOKvVJPAgihTHQfQp3kqwtzrDCrw+LOW2xmyKNElM/
+media.zoomprospector.com:443	TRUE	/	FALSE	1999999999	SameSite	None
+www.cityofdoral.com	TRUE	/	FALSE	1999999999	locale-code	en-US
+www.cityofdoral.com	TRUE	/	FALSE	1999999999	SameSite	None
+

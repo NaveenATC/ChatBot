@@ -1,0 +1,89 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 19 May 2026 11:04:44 at https://www.cityofdoral.com +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.cityofdoral.com -O1 "C:\My Web Sites\doral" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:04:47	Warning: 	Moved Permanently for https://www.cityofdoral.com/
+11:04:47	Warning: 	File has moved from https://www.cityofdoral.com/ to https://www.cityofdoral.com/Home
+11:08:44	Warning: 	HTML file (741 bytes) retransferred due to lack of cache: https://www.cityofdoral.com/.../
+11:08:45	Error: 	"Not Found" (404) at link https://www.cityofdoral.com/ak.m (from https://www.cityofdoral.com/Home)
+11:08:45	Error: 	"Not Found" (404) at link https://www.cityofdoral.com/ak.t (from https://www.cityofdoral.com/Home)
+11:35:59	Error: 	Exit requested by shell or user
+11:36:19	Error: 	"Not Found" (404) at link https://www.cityofdoral.com/Residents/Info-Doral (from https://www.cityofdoral.com/Home)
+11:36:19	Error: 	"Not Found" (404) at link https://www.cityofdoral.com/Government-Center/Office-of-the-City-Clerk/Resolutions/Resolutions-Archived (from https://www.cityofdoral.com/Home)
+11:36:19	Error: 	"Not Found" (404) at link https://www.cityofdoral.com/Government-Center/Office-of-the-City-Clerk/Public-Notices-2025/Public-Notices-Archived (from https://www.cityofdoral.com/Home)
+11:36:19	Error: 	"Not Found" (404) at link https://www.cityofdoral.com/Government-Center/Office-of-the-City-Clerk/Ordinances-2025/Ordinances-Archived (from https://www.cityofdoral.com/Home)
+11:36:19	Error: 	"Not Found" (404) at link https://www.cityofdoral.com/Government-Center/Office-of-the-City-Clerk/Contracts-2025/Contracts-Agreements-Archived (from https://www.cityofdoral.com/Home)
+11:36:19	Error: 	"Not Found" (404) at link https://www.cityofdoral.com/Government-Center/Office-of-the-City-Clerk/Ordinance-BIE-2025/Ordinance-Business-Impact-Estimate-Archived (from https://www.cityofdoral.com/Home)
+11:36:20	Error: 	"Not Found" (404) at link https://www.cityofdoral.com/Businesses-new-link/Copy-of-Best-of-the-Best-2024-1 (from https://www.cityofdoral.com/Home)
+11:36:20	Error: 	"Not Found" (404) at link https://www.cityofdoral.com/Businesses-new-link/Copy-of-Connect-with-Partners-1 (from https://www.cityofdoral.com/Home)
+11:36:20	Error: 	"Not Found" (404) at link https://www.cityofdoral.com/Site-Map (from https://www.cityofdoral.com/Home)
+11:36:20	Error: 	"Not Found" (404) at link https://www.cityofdoral.com/audio.ogg (from https://www.cityofdoral.com/files/templates/00000000-0000-0000-0000-000000000000/cb43379f-eba5-4cd1-93a4-8079e117411e/v/249/modernizr.custom.710f3bf.js?seamlessts=639124142781866327)
+11:36:20	Error: 	"Not Found" (404) at link https://www.cityofdoral.com/audio.mp3 (from https://www.cityofdoral.com/files/templates/00000000-0000-0000-0000-000000000000/cb43379f-eba5-4cd1-93a4-8079e117411e/v/249/modernizr.custom.710f3bf.js?seamlessts=639124142781866327)
+11:36:20	Error: 	"Not Found" (404) at link https://www.cityofdoral.com/audio.wav (from https://www.cityofdoral.com/files/templates/00000000-0000-0000-0000-000000000000/cb43379f-eba5-4cd1-93a4-8079e117411e/v/249/modernizr.custom.710f3bf.js?seamlessts=639124142781866327)
+11:36:20	Error: 	"Not Found" (404) at link https://www.cityofdoral.com/video.ogg (from https://www.cityofdoral.com/files/templates/00000000-0000-0000-0000-000000000000/cb43379f-eba5-4cd1-93a4-8079e117411e/v/249/modernizr.custom.710f3bf.js?seamlessts=639124142781866327)
+11:36:20	Error: 	"Not Found" (404) at link https://www.cityofdoral.com/files/oc-templates/00000000-0000-0000-0000-000000000000/cb43379f-eba5-4cd1-93a4-8079e117411e/v/249/arrows_sprite.png (from https://www.cityofdoral.com/files/oc-templates/00000000-0000-0000-0000-000000000000/cb43379f-eba5-4cd1-93a4-8079e117411e/v/249/oc_grid.css~oc_grid_s1.css~oc_style.css~oc_wizard_style.css~oc_main.css~oc_forms.css~oc_wizard.css~oc_wizard_menu.css~oc_main_s1.css~oc_wizard_s1.css~oc_wizard_menu_s1.css~OcScriptCombine_Minify0?uniqueid=20250929055040)
+11:36:20	Error: 	"Not Found" (404) at link https://www.cityofdoral.com/files/oc-templates/00000000-0000-0000-0000-000000000000/cb43379f-eba5-4cd1-93a4-8079e117411e/v/249/sprite.png (from https://www.cityofdoral.com/files/oc-templates/00000000-0000-0000-0000-000000000000/cb43379f-eba5-4cd1-93a4-8079e117411e/v/249/oc_grid.css~oc_grid_s1.css~oc_style.css~oc_wizard_style.css~oc_main.css~oc_forms.css~oc_wizard.css~oc_wizard_menu.css~oc_main_s1.css~oc_wizard_s1.css~oc_wizard_menu_s1.css~OcScriptCombine_Minify0?uniqueid=20250929055040)
+11:36:21	Warning: 	Moved Permanently for https://www.cityofdoral.com/.../
+11:36:21	Warning: 	File has moved from https://www.cityofdoral.com/.../ to https://www.cityofdoral.com/Home
+11:36:21	Error: 	"Not Found" (404) at link https://www.cityofdoral.com/window.location (from https://www.cityofdoral.com/files/oc-templates/00000000-0000-0000-0000-000000000000/cb43379f-eba5-4cd1-93a4-8079e117411e/v/249/external_plugins.js~oc_form_helper.js~oc_main.js~plugins.js~oc_main_init.js~OcScriptCombine_Minify0?uniqueid=20250929055040)
+11:36:21	Error: 	"Not Found" (404) at link https://www.cityofdoral.com/POST (from https://www.cityofdoral.com/WebResource.axd?d=L6sm7a6eFOt9D7tu04RnBzP65uxZ284gdjpoDbU37dmUvw4bsKyWFQQLCEXuYd4rZhJa-Zp-Prlw4YXbQD6CQ2gcRjGBOZdtGt986c-RkJs1&t=638901392248157332)
+11:36:21	Error: 	"Not Found" (404) at link https://www.cityofdoral.com/Firefox/ (from https://www.cityofdoral.com/Telerik.Web.UI.WebResource.axd?_TSM_HiddenField_=ctl04_seamless_script_manager_TSM&compress=1&_TSM_CombinedScripts_=%3b%3bSystem.Web.Extensions%2c+Version%3d4.0.0.0%2c+Culture%3dneutral%2c+PublicKeyToken%3d31bf3856ad364e35%3aen-GB%3aa8328cc8-0a99-4e41-8fe3-b58afac64e45%3aea597d4b%3ab25378d2)
+11:36:21	Error: 	"Not Found" (404) at link https://www.cityofdoral.com/AppleWebKit/ (from https://www.cityofdoral.com/Telerik.Web.UI.WebResource.axd?_TSM_HiddenField_=ctl04_seamless_script_manager_TSM&compress=1&_TSM_CombinedScripts_=%3b%3bSystem.Web.Extensions%2c+Version%3d4.0.0.0%2c+Culture%3dneutral%2c+PublicKeyToken%3d31bf3856ad364e35%3aen-GB%3aa8328cc8-0a99-4e41-8fe3-b58afac64e45%3aea597d4b%3ab25378d2)
+11:36:21	Error: 	"Not Found" (404) at link https://www.cityofdoral.com/Opera/ (from https://www.cityofdoral.com/Telerik.Web.UI.WebResource.axd?_TSM_HiddenField_=ctl04_seamless_script_manager_TSM&compress=1&_TSM_CombinedScripts_=%3b%3bSystem.Web.Extensions%2c+Version%3d4.0.0.0%2c+Culture%3dneutral%2c+PublicKeyToken%3d31bf3856ad364e35%3aen-GB%3aa8328cc8-0a99-4e41-8fe3-b58afac64e45%3aea597d4b%3ab25378d2)
+11:36:21	Error: 	"Not Found" (404) at link https://www.cityofdoral.com/MicrosoftAjaxWebForms.js (from https://www.cityofdoral.com/Telerik.Web.UI.WebResource.axd?_TSM_HiddenField_=ctl04_seamless_script_manager_TSM&compress=1&_TSM_CombinedScripts_=%3b%3bSystem.Web.Extensions%2c+Version%3d4.0.0.0%2c+Culture%3dneutral%2c+PublicKeyToken%3d31bf3856ad364e35%3aen-GB%3aa8328cc8-0a99-4e41-8fe3-b58afac64e45%3aea597d4b%3ab25378d2)
+11:36:21	Error: 	"Not Found" (404) at link https://www.cityofdoral.com/MicrosoftAjaxSerialization.js (from https://www.cityofdoral.com/Telerik.Web.UI.WebResource.axd?_TSM_HiddenField_=ctl04_seamless_script_manager_TSM&compress=1&_TSM_CombinedScripts_=%3b%3bSystem.Web.Extensions%2c+Version%3d4.0.0.0%2c+Culture%3dneutral%2c+PublicKeyToken%3d31bf3856ad364e35%3aen-GB%3aa8328cc8-0a99-4e41-8fe3-b58afac64e45%3aea597d4b%3ab25378d2)
+11:36:21	Error: 	"Not Found" (404) at link https://www.cityofdoral.com/MicrosoftAjaxNetwork.js (from https://www.cityofdoral.com/Telerik.Web.UI.WebResource.axd?_TSM_HiddenField_=ctl04_seamless_script_manager_TSM&compress=1&_TSM_CombinedScripts_=%3b%3bSystem.Web.Extensions%2c+Version%3d4.0.0.0%2c+Culture%3dneutral%2c+PublicKeyToken%3d31bf3856ad364e35%3aen-GB%3aa8328cc8-0a99-4e41-8fe3-b58afac64e45%3aea597d4b%3ab25378d2)
+11:36:21	Error: 	"Not Found" (404) at link https://www.cityofdoral.com/Elected-officials/Christi-Fraga/ak.m (from https://www.cityofdoral.com/Elected-officials/Christi-Fraga/Doral-at-the-Center-of-G20)
+11:36:21	Error: 	"Not Found" (404) at link https://www.cityofdoral.com/Elected-officials/Christi-Fraga/ak.t (from https://www.cityofdoral.com/Elected-officials/Christi-Fraga/Doral-at-the-Center-of-G20)
+11:36:21	Warning: 	Moved Permanently for https://www.cityofdoral.com/residents/doral-alerts/
+11:36:21	Warning: 	File has moved from https://www.cityofdoral.com/residents/doral-alerts/ to https://www.cityofdoral.com/Residents/Doral-Alerts
+11:36:21	Warning: 	Moved Permanently for https://www.cityofdoral.com/residents/sign-up-for-our-newsletter/
+11:36:21	Warning: 	File has moved from https://www.cityofdoral.com/residents/sign-up-for-our-newsletter/ to https://www.cityofdoral.com/Residents/Sign-Up-for-Our-Newsletter
+11:36:21	Error: 	"Not Found" (404) at link https://www.cityofdoral.com/Government-Center/Office-of-the-City-Clerk/ak.m (from https://www.cityofdoral.com/Government-Center/Office-of-the-City-Clerk/Council-Meetings)
+11:36:21	Error: 	"Not Found" (404) at link https://www.cityofdoral.com/Government-Center/Office-of-the-City-Clerk/ak.t (from https://www.cityofdoral.com/Government-Center/Office-of-the-City-Clerk/Council-Meetings)
+11:36:21	Error: 	"Not Found" (404) at link https://www.cityofdoral.com/Government-Center/Office-of-the-City-Clerk/Public-Records-Request (from https://www.cityofdoral.com/Government-Center/Office-of-the-City-Clerk/Council-Meetings)
+11:36:21	Error: 	"Not Found" (404) at link https://www.cityofdoral.com/About/ak.m (from https://www.cityofdoral.com/About/Doral-Facts)
+11:36:21	Error: 	"Not Found" (404) at link https://www.cityofdoral.com/About/ak.t (from https://www.cityofdoral.com/About/Doral-Facts)
+11:36:21	Error: 	"Not Found" (404) at link https://www.cityofdoral.com/Businesses/ak.m (from https://www.cityofdoral.com/Businesses/Economic-Development-Reports)
+11:36:21	Error: 	"Not Found" (404) at link https://www.cityofdoral.com/Businesses/ak.t (from https://www.cityofdoral.com/Businesses/Economic-Development-Reports)
+11:36:22	Error: 	"Not Found" (404) at link https://www.cityofdoral.com/SystemControls/SCDisplay/ (from https://www.cityofdoral.com/Businesses/Local-Discounts)
+11:36:22	Error: 	"Not Found" (404) at link https://www.cityofdoral.com/Departments/Parks-and-Recreation/ak.m (from https://www.cityofdoral.com/Departments/Parks-and-Recreation/Sponsorship-Opportunities)
+11:36:22	Error: 	"Not Found" (404) at link https://www.cityofdoral.com/Departments/Parks-and-Recreation/ak.t (from https://www.cityofdoral.com/Departments/Parks-and-Recreation/Sponsorship-Opportunities)
+11:36:22	Warning: 	Retry after error -2 (Receive Time Out) at link https://www.cityofdoral.com/Businesses/Commercial-Property-Search?oc_lang=en-US (from https://www.cityofdoral.com/Businesses/Commercial-Property-Search)
+11:36:22	Error: 	"Not Found" (404) at link https://www.cityofdoral.com/Government-Center/ak.m (from https://www.cityofdoral.com/Government-Center/Office-of-the-City-Attorney)
+11:36:22	Error: 	"Not Found" (404) at link https://www.cityofdoral.com/Government-Center/ak.t (from https://www.cityofdoral.com/Government-Center/Office-of-the-City-Attorney)
+11:36:22	Error: 	"Not Found" (404) at link https://www.cityofdoral.com/Departments/ak.m (from https://www.cityofdoral.com/Departments/Building-Department)
+11:36:22	Error: 	"Not Found" (404) at link https://www.cityofdoral.com/Departments/ak.t (from https://www.cityofdoral.com/Departments/Building-Department)
+11:36:22	Error: 	"Not Found" (404) at link https://www.cityofdoral.com/Departments/Building-Department/ak.m (from https://www.cityofdoral.com/Departments/Building-Department/Announcements-and-Updates)
+11:36:22	Error: 	"Not Found" (404) at link https://www.cityofdoral.com/Departments/Building-Department/ak.t (from https://www.cityofdoral.com/Departments/Building-Department/Announcements-and-Updates)
+11:36:22	Error: 	"Not Found" (404) at link https://www.cityofdoral.com/Departments/Building-Department/Hours-of-Operation (from https://www.cityofdoral.com/Departments/Building-Department/Frequently-Asked-Questions)
+11:36:22	Error: 	"Not Found" (404) at link https://www.cityofdoral.com/ files= (from https://www.cityofdoral.com/Departments/Building-Department/Flood-Information)
+11:36:22	Error: 	"Not Found" (404) at link https://www.cityofdoral.com/Departments/Code-Compliance-Department/ak.m (from https://www.cityofdoral.com/Departments/Code-Compliance-Department/Code-Violation-Lien-Searches)
+11:36:22	Error: 	"Not Found" (404) at link https://www.cityofdoral.com/Departments/Code-Compliance-Department/ak.t (from https://www.cityofdoral.com/Departments/Code-Compliance-Department/Code-Violation-Lien-Searches)
+11:36:22	Error: 	"Not Found" (404) at link https://www.cityofdoral.com/Departments/Finance-Department/Monthly-Reports (from https://www.cityofdoral.com/Departments/Finance-Department)
+11:36:22	Error: 	"Not Found" (404) at link https://www.cityofdoral.com/Departments/Finance-Department/ak.m (from https://www.cityofdoral.com/Departments/Finance-Department/Awards)
+11:36:22	Error: 	"Not Found" (404) at link https://www.cityofdoral.com/Departments/Finance-Department/ak.t (from https://www.cityofdoral.com/Departments/Finance-Department/Awards)
+11:36:22	Error: 	"Not Found" (404) at link https://www.cityofdoral.com/Departments/Human-Resources/ak.m (from https://www.cityofdoral.com/Departments/Human-Resources/Collective-Bargaining-Agreements)
+11:36:22	Error: 	"Not Found" (404) at link https://www.cityofdoral.com/Departments/Human-Resources/ak.t (from https://www.cityofdoral.com/Departments/Human-Resources/Collective-Bargaining-Agreements)
+11:36:22	Error: 	"Not Found" (404) at link https://www.cityofdoral.com/Departments/Information-Technology/ak.m (from https://www.cityofdoral.com/Departments/Information-Technology/Awards)
+11:36:22	Error: 	"Not Found" (404) at link https://www.cityofdoral.com/Departments/Information-Technology/ak.t (from https://www.cityofdoral.com/Departments/Information-Technology/Awards)
+11:36:23	Error: 	"Not Found" (404) at link https://www.cityofdoral.com/Departments/Police-Department/Police-Advisory-Board (from https://www.cityofdoral.com/Departments/Police-Department)
+11:36:23	Error: 	"Not Found" (404) at link https://www.cityofdoral.com/Departments/Police-Department/ak.m (from https://www.cityofdoral.com/Departments/Police-Department/Camping-Ordinance-Resources)
+11:36:23	Error: 	"Not Found" (404) at link https://www.cityofdoral.com/Departments/Police-Department/ak.t (from https://www.cityofdoral.com/Departments/Police-Department/Camping-Ordinance-Resources)
+11:36:23	Error: 	"Not Found" (404) at link https://www.cityofdoral.com/Departments/Planning-and-Zoning-Department/ak.m (from https://www.cityofdoral.com/Departments/Planning-and-Zoning-Department/BTR-Payment-Schedule-Sample)
+11:36:23	Error: 	"Not Found" (404) at link https://www.cityofdoral.com/Departments/Planning-and-Zoning-Department/ak.t (from https://www.cityofdoral.com/Departments/Planning-and-Zoning-Department/BTR-Payment-Schedule-Sample)
+11:36:24	Error: 	"Not Found" (404) at link https://www.cityofdoral.com/Departments/Procurement-and-Asset-Management-Department/ak.m (from https://www.cityofdoral.com/Departments/Procurement-and-Asset-Management-Department/Active-Solicitations-2026)
+11:36:24	Error: 	"Not Found" (404) at link https://www.cityofdoral.com/Departments/Procurement-and-Asset-Management-Department/ak.t (from https://www.cityofdoral.com/Departments/Procurement-and-Asset-Management-Department/Active-Solicitations-2026)
+11:36:24	Error: 	"Not Found" (404) at link https://www.cityofdoral.com/Departments/Public-Affairs-Department/ak.m (from https://www.cityofdoral.com/Departments/Public-Affairs-Department/Directory)
+11:36:24	Error: 	"Not Found" (404) at link https://www.cityofdoral.com/Departments/Public-Affairs-Department/ak.t (from https://www.cityofdoral.com/Departments/Public-Affairs-Department/Directory)
+11:36:24	Error: 	"Not Found" (404) at link https://www.cityofdoral.com/Departments/Public-Works-Department/ak.m (from https://www.cityofdoral.com/Departments/Public-Works-Department/Adopt-A-Street)
+11:36:24	Error: 	"Not Found" (404) at link https://www.cityofdoral.com/Departments/Public-Works-Department/ak.t (from https://www.cityofdoral.com/Departments/Public-Works-Department/Adopt-A-Street)
+11:36:57	Warning: 	File not added due to mirror cancel: https://www.cityofdoral.com/Businesses/Commercial-Property-Search?oc_lang=en-US
+11:36:57	Error: 	"mirror stopped by user" (-1) at link https://www.cityofdoral.com/Businesses/Commercial-Property-Search?oc_lang=en-US (from https://www.cityofdoral.com/Businesses/Commercial-Property-Search)
+
+HTTrack Website Copier/3.49-2 mirror complete in 32 minutes 13 seconds : 2356 links scanned, 2284 files written (2254554912 bytes overall) [2214807309 bytes received at 1145787 bytes/sec], 68016986 bytes transferred using HTTP compression in 841 files, ratio 32%, 29.2 requests per connection
+(67 errors, 11 warnings, 0 messages)
